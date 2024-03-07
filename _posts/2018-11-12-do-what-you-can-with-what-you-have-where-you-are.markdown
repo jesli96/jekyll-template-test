@@ -13,7 +13,7 @@ Podcasting operational change management inside of workflows to establish a fram
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/03-1.jpg" loading="lazy" alt="Tram">
+    <img src="{{site.baseurl}}/images/03-1.jpg" loading="lazy" alt="Tram">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/h7N5c9A34Es" target="_blank">Alina K</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

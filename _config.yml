@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseurl: "/jekyll-template-test" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/jesli96" # the base hostname & protocol for your site, e.g. http://example.com
 
 
