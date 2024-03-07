@@ -18,7 +18,7 @@ menu__settings:
       url: '/blog/'
     - title: 'Pages'
       submenu:
-      - url: '{{baseurl}}/about/'
+      - url: '/about/'
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
